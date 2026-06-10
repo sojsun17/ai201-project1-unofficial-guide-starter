@@ -5,31 +5,46 @@ Courses: CS 111, CS 211
 Source: RateMyProfessors.com
 
 --- Review 1 ---
-The course material is challenging, but exams are often based on patterns seen in homework and practice problems. Practicing regularly is key.
+CS211 with her is challenging but fair if you stay consistent. Lectures are sometimes unclear but homework helps reinforce material. Exams are written and require step by step solutions. Grading is strict but reasonable. Past exams are very useful.
 
 --- Review 2 ---
-Lectures can be difficult to follow at times, but reviewing notes after class helps significantly. The content becomes clearer with repetition.
+CS313 felt easier than CS211 but still required effort. Lectures are dense and you need to review after class. Exams are not multiple choice and focus on problem solving. Office hours help clarify confusing parts. Overall manageable.
 
 --- Review 3 ---
-Past exams are extremely helpful for preparation. Many questions follow similar structures each semester.
+CS211 requires a lot of practice outside class. The professor expects strong understanding of theory. Exams are harder than homework problems. Grading is fair but not forgiving. You cannot fall behind.
 
 --- Review 4 ---
-Passing the class is very achievable if you keep up with weekly studying. The main difficulty is consistency.
+CS313 was okay but lectures were not always clear. Still, the material becomes easier with practice. Exams are written and similar to homework style. Office hours are helpful before exams. Decent experience overall.
 
 --- Review 5 ---
-Grading is fair compared to other theoretical CS courses. The expectations are reasonable if you put in effort.
+She is strict but not unfair in CS211. Exams require real understanding. Homework is important for preparation. Lectures are not always enough. You need to study independently.
 
 --- Review 6 ---
-Some students struggle with lecture clarity, but outside resources help fill in the gaps. Self study is important.
+CS211 felt heavy in workload but structured. Exams were consistent with past materials. Grading was strict on small mistakes. Office hours were helpful. Good professor if you are disciplined.
 
 --- Review 7 ---
-This professor is a decent option if you are willing to practice problems regularly. Success depends on repetition.
+CS313 was manageable but still required weekly studying. Lectures can be confusing at times. Exams are fair and predictable. Homework prepares you well. Solid but not easy.
 
 --- Review 8 ---
-Exams are not designed to trick students if you study properly. They reflect homework and practice material closely.
+CS211 is not a class you can wing. You need constant practice. Exams are written and detailed. Grading is strict but consistent. Still a fair professor.
 
 --- Review 9 ---
-The workload is moderate but steady throughout the semester. There are no major surprises if you stay consistent.
+CS313 felt like a step down in difficulty from CS211. Still required effort though. Exams are based on lecture concepts. Office hours are useful. Good structure overall.
 
 --- Review 10 ---
-A solid choice for students who are willing to put in effort and use practice materials effectively.
+Lectures are sometimes hard to follow but notes help. CS211 especially requires independent study. Exams are tough but fair. Homework is essential. You get out what you put in.
+
+--- Review 11 ---
+CS313 was okay but not very exciting. Exams were predictable. Grading was fair. Lectures could be improved. Still manageable course.
+
+--- Review 12 ---
+CS211 is very theory heavy and requires focus. Exams are written and detailed. Homework helps but is not enough alone. Office hours are important. Hard but doable.
+
+--- Review 13 ---
+CS313 had lighter workload compared to CS211. Exams were straightforward. Lectures were sometimes unclear. Still a good class overall. Fair grading.
+
+--- Review 14 ---
+CS211 requires strong problem solving skills. Exams are time consuming and challenging. Grading is strict. You must study consistently. Not an easy course.
+
+--- Review 15 ---
+Overall she is fair but demanding. CS211 is the hardest of the two courses. CS313 is more manageable. Exams are consistent with material. You will learn a lot if you put in effort.

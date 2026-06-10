@@ -4,31 +4,46 @@ University: Queens College, CUNY
 Courses: CS 316, CS 416
 Source: RateMyProfessors.com
 --- Review 1 ---
-This professor is very beginner friendly and explains programming concepts in a clear and approachable way. Students new to CS tend to do well here.
+CS316 with him was one of the most beginner friendly upper level courses I have taken. He explains concepts clearly and does not rush through material. Exams are very fair and based on lectures. Homework reinforces everything well. Office hours are actually useful if you are stuck.
 
 --- Review 2 ---
-Lectures are easy to follow and focus on building strong foundational skills. The pace is manageable even for beginners.
+CS416 felt manageable because of how clearly he explains advanced topics. Lectures are structured and easy to follow even when material gets complex. Exams are written but very similar to examples done in class. Grading is fair and transparent. No surprises on tests.
 
 --- Review 3 ---
-Grading is transparent and expectations are clearly stated from the start. There are no surprises in how the course is run.
+He is very approachable in CS316 and willing to repeat explanations. The workload is reasonable and not overwhelming. Exams are straightforward and mostly conceptual. Homework is helpful for understanding exams. Good professor overall.
 
 --- Review 4 ---
-The professor is very approachable and willing to help outside of class. Office hours are genuinely useful.
+CS416 was challenging content wise but the professor makes it easier to understand. Lectures are clear and paced well. Exams are fair but require real understanding not memorization. Office hours helped a lot before midterms. One of the better CS professors.
 
 --- Review 5 ---
-Assignments are reasonable and reinforce lecture material effectively. They are designed to help students learn, not overwhelm them.
+CS316 is very beginner friendly and good for building confidence. Assignments are not too heavy and match lectures closely. Exams are written but simple compared to other classes. He is patient with students. Good introduction to systems type thinking.
 
 --- Review 6 ---
-This is one of the best professors for learning core programming fundamentals. The course builds confidence gradually.
+CS416 has more complex topics but still feels manageable. He breaks down difficult ideas into simpler steps. Exams are not trick questions. Homework prepares you well. Very supportive teaching style.
 
 --- Review 7 ---
-Students who participate in class tend to do very well. The environment is supportive and structured.
+Lectures are clear and organized in both CS316 and CS416. You can actually follow along without getting lost. Exams are fair and predictable. Grading is consistent. Definitely a safe professor.
 
 --- Review 8 ---
-Difficult concepts are explained in a simplified way that is easy to understand. Good pacing for beginners.
+CS316 workload is light to moderate. You still need to study but nothing overwhelming. Exams match practice problems closely. Office hours are helpful but not always necessary. Good experience overall.
 
 --- Review 9 ---
-Overall a great professor if you want to build a strong foundation in programming. Highly recommended for early CS courses.
+CS416 was one of the least stressful upper level CS courses I took. The professor makes difficult topics accessible. Exams are reasonable and not overly tricky. Homework is manageable. Solid teaching style.
 
 --- Review 10 ---
-The course is well organized and supportive, making it easier to transition into computer science.
+He is very student focused and cares about understanding. CS316 lectures are easy to follow even if you miss a class occasionally. Exams are fair and consistent. No harsh grading surprises. Good professor for learning fundamentals.
+
+--- Review 11 ---
+CS416 requires effort but is not overwhelming. Lectures are structured and easy to revisit later. Exams are written but very fair. Homework helps reinforce concepts. One of the better experiences in CS.
+
+--- Review 12 ---
+CS316 is good if you want a smooth introduction to systems concepts. He explains everything step by step. Exams are straightforward. Grading is lenient compared to other professors. Very approachable instructor.
+
+--- Review 13 ---
+CS416 was challenging but not stressful. The professor gives enough support to succeed. Exams reflect lecture content closely. Homework is useful for exam prep. Office hours are helpful.
+
+--- Review 14 ---
+Lectures are clear but sometimes move quickly in CS416. Still manageable if you review notes. Exams are fair and predictable. No unexpected difficulty spikes. Good structure overall.
+
+--- Review 15 ---
+Overall one of the better professors in the department. CS316 and CS416 are both well organized. Exams are fair and aligned with material. You will learn a lot without unnecessary stress. Highly recommended.

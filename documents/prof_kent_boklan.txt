@@ -4,31 +4,46 @@ University: Queens College, CUNY
 Courses: CS 370, CS 781
 Source: RateMyProfessors.com
 --- Review 1 ---
-This is one of the most difficult theory courses in the department. Exams are extremely challenging and require deep understanding rather than memorization.
+CS370 with him is extremely difficult and very theory heavy. Exams are written and require deep proof based answers. Lectures are hard to follow. Grading is strict. Not beginner friendly at all.
 
 --- Review 2 ---
-The workload is heavy and students need to consistently study throughout the semester. Falling behind even slightly makes the class very difficult.
+CS490 felt overwhelming from the start. The workload is heavy and requires constant studying. Exams are much harder than homework. Office hours help but are limited. Very stressful class.
 
 --- Review 3 ---
-Many students feel that the grading does not reflect the amount of effort they put in. Even strong students report struggling with exam difficulty.
+CS370 is one of the hardest CS courses I have taken. Exams are long and detailed. No multiple choice at all. You need strong math skills. Grading is harsh.
 
 --- Review 4 ---
-The material is important for theoretical computer science but is presented in a very demanding way. You need strong mathematical maturity to keep up.
+CS490 requires a lot of independent reading. Lectures are not enough to pass. Exams are extremely difficult. Homework does not fully prepare you. Very demanding professor.
 
 --- Review 5 ---
-Lectures alone are not sufficient to succeed in this course. Independent study is essentially required.
+He is knowledgeable but not student friendly. CS370 is very abstract. Exams are tough and time consuming. Grading is strict. You must be prepared.
 
 --- Review 6 ---
-Assignments and exams are significantly harder than most other CS classes. Time management becomes critical for survival in this course.
+CS490 felt like a weed out class. Lectures are dense. Exams are much harder than expected. Office hours are crowded. Not recommended unless required.
 
 --- Review 7 ---
-Office hours can help clarify concepts, but they do not fully bridge the difficulty gap. You must already be comfortable with proofs.
+CS370 requires serious effort every week. You cannot fall behind. Exams are written and complex. Homework helps but is not enough. Very difficult course.
 
 --- Review 8 ---
-Some students recommend avoiding this professor unless the course is required. The stress level is consistently high.
+CS490 is not an easy elective. The workload is heavy. Exams are challenging. Grading is strict. You need discipline.
 
 --- Review 9 ---
-The exams are long, tricky, and require creative problem solving. Expect to spend a lot of time preparing.
+CS370 is very theory focused. No coding, mostly proofs. Exams are difficult. Lectures are not very clear. Still academically valuable.
 
 --- Review 10 ---
-This course is best suited for students who are very confident in theoretical CS and abstract reasoning.
+CS490 is extremely time consuming. You must study constantly. Exams are very hard. Office hours are somewhat helpful. Very stressful class.
+
+--- Review 11 ---
+CS370 is not for beginners. Exams require deep understanding. Grading is strict. Lectures are dense. Very challenging overall.
+
+--- Review 12 ---
+CS490 felt overwhelming most of the semester. Homework is not enough. Exams are very hard. Requires outside resources. Not easy at all.
+
+--- Review 13 ---
+CS370 is structured but extremely difficult. Exams are written and long. Grading is harsh. You must stay consistent. Not a light course.
+
+--- Review 14 ---
+CS490 requires full commitment. Lectures are hard to follow. Exams are harder than expected. Office hours help but are not enough. Very demanding.
+
+--- Review 15 ---
+Overall one of the hardest professors. CS370 and CS490 are both very intense. You will learn a lot but it is stressful. Not recommended for easy GPA.

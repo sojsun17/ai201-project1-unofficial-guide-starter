@@ -5,31 +5,46 @@ Courses: CS 345, CS 781
 Source: RateMyProfessors.com
 
 --- Review 1 ---
-The professor is very knowledgeable and has strong expertise in cryptography and theoretical computer science. Lectures reflect deep subject understanding.
+CS345 with her is very theory heavy and focuses a lot on cryptography and proofs. The lectures are dense but she clearly knows the material very well. Exams are written and require step by step reasoning, not memorization. Grading is strict but fair if you show full work. You need to study consistently to keep up.
 
 --- Review 2 ---
-The course is difficult but rewarding for students interested in advanced theory. It is not designed for beginners.
+CS313 felt easier than CS345 but still required effort every week. Lectures can be a bit fast when covering complex topics. Exams are similar to homework but more detailed. Office hours are helpful if you ask specific questions. Overall manageable but not light.
 
 --- Review 3 ---
-Exams require deep conceptual understanding rather than memorization. You need to fully grasp the material.
+CS345 is not beginner friendly at all. You need strong math and logic skills to succeed. Exams are long and require deep understanding of cryptography concepts. Homework helps but does not fully prepare you. Still a very educational course.
 
 --- Review 4 ---
-Lectures are dense but informative if you pay close attention. Staying engaged is important.
+She is very knowledgeable but sometimes hard to follow in lecture. CS313 was okay but CS345 is a big jump in difficulty. Exams are written and very detailed. Grading is consistent but strict. You cannot rely on cramming.
 
 --- Review 5 ---
-This is a strong course for students who enjoy abstract and theoretical CS topics. It is academically valuable.
+CS345 workload is heavy but structured. Lectures are dense so reviewing notes is important. Exams test understanding not memorization. Office hours are helpful for clarification. Good professor if you are serious about theory.
 
 --- Review 6 ---
-Consistent effort is required to keep up with the material. The pace can be challenging at times.
+CS313 felt fair and manageable compared to CS345. Lectures are clearer in CS313. Exams are written but predictable. Homework is useful for exam prep. CS345 however is much more intense.
 
 --- Review 7 ---
-Office hours are helpful for clarifying difficult concepts. The professor is supportive if you seek help.
+CS345 requires constant practice and review. Missing lectures makes it hard to catch up. Exams are challenging but aligned with material. Grading is strict but transparent. Good for advanced students only.
 
 --- Review 8 ---
-The workload is significant but manageable for motivated students. It requires discipline.
+CS313 was a decent class with reasonable workload. Exams were fair and based on lectures. CS345 is where things get very difficult. You need strong independent study habits. Still learned a lot overall.
 
 --- Review 9 ---
-Strong emphasis is placed on problem solving and theoretical reasoning. Understanding is key to success.
+The professor is fair but demanding. CS345 is not easy at all and requires full attention. Exams are written and require proofs. Homework is important but not enough alone. You must study outside class.
 
 --- Review 10 ---
-Overall a great course for serious students interested in cryptography and advanced theory.
+CS313 was manageable and structured. CS345 was significantly harder. Lectures are dense but informative. Exams are tough but consistent. Good professor if you are motivated.
+
+--- Review 11 ---
+CS345 is one of the hardest theory courses I have taken. You need to understand every detail. Exams are very written heavy. Office hours help but do not replace studying. Not for beginners.
+
+--- Review 12 ---
+CS313 felt like a warm up compared to CS345. Lectures are easier to follow. Exams are fair. Homework is consistent. CS345 requires much more effort.
+
+--- Review 13 ---
+CS345 is demanding but rewarding. You learn a lot if you keep up. Exams are challenging but structured. Grading is strict but fair. Requires discipline.
+
+--- Review 14 ---
+CS313 was fine but not very exciting. CS345 is where the real difficulty is. Exams require full explanations. Lectures are dense. Still a solid professor overall.
+
+--- Review 15 ---
+Overall she is a strong professor academically. CS345 is hard but teaches a lot. CS313 is manageable. Exams are fair but strict. Good for serious CS students.

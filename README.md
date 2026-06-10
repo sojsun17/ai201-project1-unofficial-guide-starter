@@ -21,7 +21,7 @@ Student reviews of Computer Science professors at Queens College, CUNY. This kno
 | 2 | RateMyProfessors | Student reviews | documents/prof_gaurish_telang.txt |
 | 3 | RateMyProfessors | Student reviews | documents/prof_delaram_kahrobaei.txt |
 | 4 | RateMyProfessors | Student reviews | documents/prof_john_svadlenka.txt |
-| 5 | RateMyProfessors | Student reviews | documents/prof_lauren_mistretta.txt |
+| 5 | RateMyProfessors | Student reviews | documents/prof_oren_teinberg.txt |
 | 6 | RateMyProfessors | Student reviews | documents/prof_alex_ryba.txt |
 | 7 | RateMyProfessors | Student reviews | documents/prof_cuneyt_akinlar.txt |
 | 8 | RateMyProfessors | Student reviews | documents/prof_kent_boklan.txt |

@@ -5,31 +5,46 @@ Courses: CS 101, CS 111
 Source: RateMyProfessors.com
 
 --- Review 1 ---
-This is a very challenging course with fast paced lectures that can be difficult to follow. Prior preparation is often necessary.
+CS101 with her is very fast paced for an intro class. Lectures are dense and sometimes hard to follow if you are new to CS. Exams are written and require understanding of concepts. Grading is strict on small mistakes. You need to study outside class.
 
 --- Review 2 ---
-Heavy self study is required to understand the material. Lecture alone is not sufficient for most students.
+CS111 was even more challenging than expected. The professor moves quickly through material. Exams are harder than homework suggests. Office hours help but are crowded. Not beginner friendly.
 
 --- Review 3 ---
-Exams are difficult and test deep conceptual understanding. They require more than memorization.
+CS101 requires a lot of independent learning. Lectures alone are not enough. Exams are written and detailed. Homework helps but does not fully prepare you. Pretty stressful intro course.
 
 --- Review 4 ---
-The course workload is high and not ideal for students looking for an easier class. Expect to invest significant time.
+CS111 felt overwhelming at times because of the pacing. You cannot fall behind. Exams are very conceptual and not simple. Grading is strict. Still learned a lot.
 
 --- Review 5 ---
-Material is dense and requires strong focus and discipline to keep up. Falling behind makes recovery difficult.
+She is knowledgeable but not very beginner friendly. CS101 assumes you pick things up quickly. Exams are tough for an intro class. Homework is useful but limited. Requires effort.
 
 --- Review 6 ---
-Lectures can be hard to follow without reviewing material beforehand. Preparation is very important.
+CS111 workload is heavy compared to other intro classes. Lectures are fast and dense. Exams are written and require practice. Office hours help but are not enough alone. Not an easy start to CS.
 
 --- Review 7 ---
-Students often rely on outside resources to fully understand the topics. Independent learning is essential.
+CS101 was manageable if you already had some coding experience. Otherwise it felt hard. Exams were fair but tricky. Grading was strict. You must stay consistent.
 
 --- Review 8 ---
-Grading is strict but consistent with expectations. You are evaluated heavily on understanding.
+CS111 requires a lot of self study. Lectures are not always clear. Exams are significantly harder than expected. Homework is important. Very demanding intro professor.
 
 --- Review 9 ---
-Better suited for advanced students who are comfortable with abstract concepts. Not beginner friendly.
+CS101 is not the easiest intro course. You need to pay attention every lecture. Exams are written and detailed. Office hours are helpful. Still tough overall.
 
 --- Review 10 ---
-Overall a demanding course that requires strong commitment and consistent effort throughout.
+CS111 felt more like a theory class than coding. Lectures are dense. Exams require understanding not memorization. Grading is strict. Not ideal for beginners.
+
+--- Review 11 ---
+CS101 is fast paced and requires discipline. Exams are challenging for beginners. Homework helps but is not enough. Lectures can be confusing. Still doable with effort.
+
+--- Review 12 ---
+CS111 is one of the harder intro CS experiences. You need to study consistently. Exams are written and require explanation. Office hours are useful. Very strict grading.
+
+--- Review 13 ---
+CS101 is okay if you already know basics. Otherwise it feels overwhelming. Exams are fair but hard. Homework is light compared to exams. Requires outside practice.
+
+--- Review 14 ---
+CS111 is structured but difficult. Lectures move quickly. Exams require deep understanding. Grading is strict. Not an easy A.
+
+--- Review 15 ---
+Overall a tough intro professor. CS101 and CS111 are both challenging. You will learn a lot but it is stressful. Exams are harder than expected. Requires strong commitment.

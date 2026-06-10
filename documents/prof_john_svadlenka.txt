@@ -4,31 +4,46 @@ University: Queens College, CUNY
 Courses: CS 111, CS 112
 Source: RateMyProfessors.com
 --- Review 1 ---
-This course has a very heavy workload with frequent assignments and strict deadlines. Time management is essential to survive the semester.
+CS111 with him was honestly way harder than I expected for an intro class. The lectures are kind of fast and he doesn’t really slow down even when people look confused. Exams are written and significantly harder than homework problems. There is no real curve so you feel every mistake. Office hours help but only if you already understand most of the material.
 
 --- Review 2 ---
-Lectures are dense and move quickly, making it easy to fall behind if you miss even a few classes. Staying consistent is critical.
+Took CS112 and it felt like a big jump from CS111. The workload increased a lot and assignments took way longer than expected. Exams were not multiple choice and required full written explanations. Grading was very strict on small logic errors. He does not really curve so you have to earn every point.
 
 --- Review 3 ---
-Exams are significantly more difficult than expected based on lecture material. You need extra preparation beyond class notes.
+He is knowledgeable but not great at explaining basics in CS111. A lot of students struggled early because the pacing is too fast. Homework is manageable but exams are on a different level. Office hours are packed before exams and still a bit confusing. You really need outside practice to do well.
 
 --- Review 4 ---
-The course requires a lot of independent reading and self study. Lecture alone is not enough to succeed.
+CS112 felt like a continuation of the same difficulty issues from CS111. Lectures are dense and sometimes hard to follow without rewatching notes. Exams are very detail oriented and time pressure is real. Grading is harsh especially on written steps. You cannot rely on memorization at all.
 
 --- Review 5 ---
-Students often feel overwhelmed due to the volume of work. The pace of the course is demanding.
+The class is structured but not forgiving. CS111 started easy but quickly became overwhelming after midterm. Exams are harder than examples given in class. He expects you to fully understand every concept. No curve made the class stressful for a lot of students.
 
 --- Review 6 ---
-Grading is strict and small mistakes can significantly impact your final grade. Attention to detail is important.
+CS112 had a heavy workload with long assignments every week. The material itself is not impossible but the teaching style makes it harder. Exams are written and require careful reasoning. Even small mistakes lose a lot of points. Office hours are helpful but crowded.
 
 --- Review 7 ---
-This is not a good choice for students looking for a lighter workload. It requires serious commitment.
+Honestly CS111 was okay if you already had coding experience. If not, it felt pretty fast. The exams were way harder than labs. He is not very flexible with grading. Still, you do learn a lot if you survive the course.
 
 --- Review 8 ---
-Material is important but not always clearly explained in lecture. Outside study resources are often necessary.
+CS112 felt very proof heavy and less about coding. Lectures are not very engaging and can feel repetitive. Exams are very strict and require step by step solutions. Homework helps but does not fully prepare you. No curve made it stressful.
 
 --- Review 9 ---
-The professor expects a high level of discipline and consistency from students. Falling behind is difficult to recover from.
+He is fair in terms of content but very strict in grading. CS111 requires constant studying or you fall behind quickly. Exams are long and written. Office hours are the only real way to clarify confusing topics. Not an easy A at all.
 
 --- Review 10 ---
-Overall one of the more demanding professors, but manageable for strong and organized students.
+CS112 was one of my hardest CS classes so far. The professor expects a lot of independence. Lectures are not enough to fully understand the material. Exams are significantly harder than homework. You really need to practice a lot outside class.
+
+--- Review 11 ---
+CS111 started off fine but got difficult very quickly. The pacing does not slow down for beginners. Exams are written and require full understanding. Grading is strict and not very forgiving. You need to stay consistent every week.
+
+--- Review 12 ---
+CS112 felt like a step up in difficulty and workload. Assignments took multiple hours each week. Exams were harder than expected and very detailed. Office hours help but do not fully bridge gaps in understanding. No curve adds pressure.
+
+--- Review 13 ---
+Lectures in CS111 are dense and not very interactive. He mainly goes through slides quickly. Exams are written and require careful preparation. Homework is easier than exams so it can be misleading. Still a decent class if you are disciplined.
+
+--- Review 14 ---
+CS112 requires strong time management skills. You cannot cram before exams and expect to do well. Grading is strict and based on precision. Lectures are not always clear so self study is required. Overall very demanding course.
+
+--- Review 15 ---
+He is not the worst professor but definitely not beginner friendly. CS111 and CS112 both require a lot of outside studying. Exams are consistently harder than expected. Office hours are helpful if you attend regularly. You will learn a lot but it is stressful.

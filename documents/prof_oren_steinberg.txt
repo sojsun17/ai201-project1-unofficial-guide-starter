@@ -1,35 +1,50 @@
-Professor: Lauren Mistretta
+Professor: Oren Steinberg
 Department: Computer Science
 University: Queens College, CUNY
 Courses: CS 101, CS 111
 Source: RateMyProfessors.com
 
 --- Review 1 ---
-Lectures are clear, structured, and easy to follow. The professor explains concepts in a straightforward way.
+CS101 with him is very clear and beginner friendly. Lectures are easy to follow even if you have no experience. Exams are fair and based on class material. Grading is reasonable. Good intro CS professor.
 
 --- Review 2 ---
-Exams closely match lecture notes and review materials. There are no major surprises if you study properly.
+CS111 was manageable and not stressful at all. He explains everything step by step. Exams are written but straightforward. Homework reinforces lectures well. Very solid teaching style.
 
 --- Review 3 ---
-This is considered one of the easier professors in the CS department. Students generally perform well here.
+CS101 is one of the easiest intro CS experiences. Lectures are organized and clear. Exams are not tricky. Office hours are helpful. Good for beginners.
 
 --- Review 4 ---
-Attendance is helpful because most exam content is based on lecture examples. Missing class can hurt performance.
+CS111 felt smooth and predictable. Exams match lecture notes closely. Homework is not too heavy. Grading is fair. Good professor overall.
 
 --- Review 5 ---
-Assignments reinforce material without being overly difficult. They help prepare for exams effectively.
+He is very approachable and helpful. CS101 students usually do well. Lectures are structured. Exams are fair. No surprises.
 
 --- Review 6 ---
-The professor is approachable and willing to help students understand difficult topics. Office hours are useful.
+CS111 is easy to keep up with if you attend class. Lectures are clear. Exams are straightforward. Homework is manageable. Good intro experience.
 
 --- Review 7 ---
-Lectures are well organized and make learning easier compared to other classes. Good structure overall.
+CS101 workload is light. Exams are based on examples. Grading is consistent. Office hours help if needed. Very beginner friendly.
 
 --- Review 8 ---
-Grading is fair and expectations are clearly communicated. Students know what is required to succeed.
+CS111 is one of the more comfortable CS classes. Lectures are clear. Exams are fair. Homework is simple. Good pacing overall.
 
 --- Review 9 ---
-A good course for building fundamentals without excessive stress. Recommended for steady learners.
+CS101 is very structured and easy to follow. Exams are not difficult. You just need to pay attention. Good introduction to CS. No stress.
 
 --- Review 10 ---
-Overall a solid professor for learning core CS concepts in a manageable environment.
+CS111 is manageable and well taught. Exams are predictable. Lectures are clear. Homework is useful. Good professor for beginners.
+
+--- Review 11 ---
+CS101 is good for learning basics without pressure. Exams are fair. Lectures are easy to understand. Office hours are helpful. Very solid intro class.
+
+--- Review 12 ---
+CS111 is structured and beginner friendly. Exams are not tricky. Homework is consistent. Grading is fair. Good overall experience.
+
+--- Review 13 ---
+CS101 is easy to follow even for non majors. Lectures are clear. Exams are straightforward. No surprises. Good teaching.
+
+--- Review 14 ---
+CS111 is a smooth class overall. Exams are based on lecture material. Homework helps reinforce learning. Grading is fair. Recommended.
+
+--- Review 15 ---
+Overall one of the best intro professors. CS101 and CS111 are both very manageable. Students generally do well. Clear expectations. Good choice.

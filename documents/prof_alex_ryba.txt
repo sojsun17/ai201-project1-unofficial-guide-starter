@@ -3,32 +3,32 @@ Department: Computer Science
 University: Queens College, CUNY
 Courses: CS 700, CS 490
 Source: RateMyProfessors.com
---- Review 1 ---
-This course is very theory heavy and focuses heavily on proofs and abstract reasoning. If you are not already comfortable with discrete math, the material can feel overwhelming very quickly.
+Review 1
+CS211 with him is very theory heavy and focuses a lot on proofs and formal logic. Lectures are kind of fast and you really need discrete math background. Exams are written and not multiple choice, mostly proving stuff.
 
---- Review 2 ---
-Lectures move at a fast pace and assume a strong mathematical background. You will need to spend significant time outside of class reviewing notes to keep up.
+Review 2
+Took CS212 and it was honestly confusing at first because he jumps into abstract concepts quickly. If you miss class you are basically lost. Office hours help but only if you already tried the problems.
 
---- Review 3 ---
-Exams are fair in the sense that they match the material, but they require deep conceptual understanding. Memorization alone will not be enough to succeed.
+Review 3
+His CS111 section was okay but still more theoretical than expected. Labs were manageable but exams had tricky written questions. Grading felt fair but strict on showing steps.
 
---- Review 4 ---
-The lecture style is not very interactive, but the material is consistent and structured. Students who follow along carefully can still do well.
+Review 4
+Lectures are not very engaging and can feel monotone. That said, the material is consistent with exams so you cant really skip. Homework is important for exam prep.
 
---- Review 5 ---
-Assignments reinforce theoretical concepts but can take a lot of time to fully understand. They are important for exam preparation.
+Review 5
+CS211 with him felt like a math class more than CS. Lots of proofs and reasoning questions on exams. You need to practice a lot outside class.
 
---- Review 6 ---
-Office hours are useful if you come prepared with specific questions. The professor is more helpful one on one than during lecture.
+Review 6
+He is not bad but definitely not beginner friendly. CS111 students struggled a bit with the pace. Office hours are useful if you go prepared.
 
---- Review 7 ---
-This is not a course for students looking for practical programming. It is heavily focused on mathematical foundations of computer science.
+Review 7
+Exams are all written and require full explanations. No multiple choice at all in my experience. You really need to understand every concept deeply.
 
---- Review 8 ---
-Students who fall behind early usually struggle to recover later in the semester. Consistency is very important for this class.
+Review 8
+Lectures are dense but organized. If you rewrite notes after class you can survive CS212. Otherwise it gets overwhelming fast.
 
---- Review 9 ---
-The workload is manageable if you stay disciplined and review regularly. However, it is not a class you can cram for.
+Review 9
+Fair professor but definitely not an easy A. CS211 requires consistent studying every week. Cramming does not work here.
 
---- Review 10 ---
-Good course for students interested in theoretical CS, but it requires patience and strong problem solving skills.
+Review 10
+Good if you like theoretical CS but not great if you want practical coding. CS111 felt harder than expected. Still learned a lot though.
