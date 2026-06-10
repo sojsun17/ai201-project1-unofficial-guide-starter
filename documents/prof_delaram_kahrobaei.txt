@@ -1,0 +1,35 @@
+Professor: Delaram Kahrobaei
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 345, CS 781
+Source: RateMyProfessors.com
+
+--- Review 1 ---
+The professor is very knowledgeable and has strong expertise in cryptography and theoretical computer science. Lectures reflect deep subject understanding.
+
+--- Review 2 ---
+The course is difficult but rewarding for students interested in advanced theory. It is not designed for beginners.
+
+--- Review 3 ---
+Exams require deep conceptual understanding rather than memorization. You need to fully grasp the material.
+
+--- Review 4 ---
+Lectures are dense but informative if you pay close attention. Staying engaged is important.
+
+--- Review 5 ---
+This is a strong course for students who enjoy abstract and theoretical CS topics. It is academically valuable.
+
+--- Review 6 ---
+Consistent effort is required to keep up with the material. The pace can be challenging at times.
+
+--- Review 7 ---
+Office hours are helpful for clarifying difficult concepts. The professor is supportive if you seek help.
+
+--- Review 8 ---
+The workload is significant but manageable for motivated students. It requires discipline.
+
+--- Review 9 ---
+Strong emphasis is placed on problem solving and theoretical reasoning. Understanding is key to success.
+
+--- Review 10 ---
+Overall a great course for serious students interested in cryptography and advanced theory.

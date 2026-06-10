@@ -1,0 +1,35 @@
+Professor: Lauren Mistretta
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 101, CS 111
+Source: RateMyProfessors.com
+
+--- Review 1 ---
+Lectures are clear, structured, and easy to follow. The professor explains concepts in a straightforward way.
+
+--- Review 2 ---
+Exams closely match lecture notes and review materials. There are no major surprises if you study properly.
+
+--- Review 3 ---
+This is considered one of the easier professors in the CS department. Students generally perform well here.
+
+--- Review 4 ---
+Attendance is helpful because most exam content is based on lecture examples. Missing class can hurt performance.
+
+--- Review 5 ---
+Assignments reinforce material without being overly difficult. They help prepare for exams effectively.
+
+--- Review 6 ---
+The professor is approachable and willing to help students understand difficult topics. Office hours are useful.
+
+--- Review 7 ---
+Lectures are well organized and make learning easier compared to other classes. Good structure overall.
+
+--- Review 8 ---
+Grading is fair and expectations are clearly communicated. Students know what is required to succeed.
+
+--- Review 9 ---
+A good course for building fundamentals without excessive stress. Recommended for steady learners.
+
+--- Review 10 ---
+Overall a solid professor for learning core CS concepts in a manageable environment.

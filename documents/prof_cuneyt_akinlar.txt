@@ -1,0 +1,34 @@
+Professor: Cuneyt Akinlar
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 316, CS 416
+Source: RateMyProfessors.com
+--- Review 1 ---
+This professor is very beginner friendly and explains programming concepts in a clear and approachable way. Students new to CS tend to do well here.
+
+--- Review 2 ---
+Lectures are easy to follow and focus on building strong foundational skills. The pace is manageable even for beginners.
+
+--- Review 3 ---
+Grading is transparent and expectations are clearly stated from the start. There are no surprises in how the course is run.
+
+--- Review 4 ---
+The professor is very approachable and willing to help outside of class. Office hours are genuinely useful.
+
+--- Review 5 ---
+Assignments are reasonable and reinforce lecture material effectively. They are designed to help students learn, not overwhelm them.
+
+--- Review 6 ---
+This is one of the best professors for learning core programming fundamentals. The course builds confidence gradually.
+
+--- Review 7 ---
+Students who participate in class tend to do very well. The environment is supportive and structured.
+
+--- Review 8 ---
+Difficult concepts are explained in a simplified way that is easy to understand. Good pacing for beginners.
+
+--- Review 9 ---
+Overall a great professor if you want to build a strong foundation in programming. Highly recommended for early CS courses.
+
+--- Review 10 ---
+The course is well organized and supportive, making it easier to transition into computer science.

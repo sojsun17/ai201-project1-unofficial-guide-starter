@@ -1,0 +1,34 @@
+Professor: Alex Ryba
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 700, CS 490
+Source: RateMyProfessors.com
+--- Review 1 ---
+This course is very theory heavy and focuses heavily on proofs and abstract reasoning. If you are not already comfortable with discrete math, the material can feel overwhelming very quickly.
+
+--- Review 2 ---
+Lectures move at a fast pace and assume a strong mathematical background. You will need to spend significant time outside of class reviewing notes to keep up.
+
+--- Review 3 ---
+Exams are fair in the sense that they match the material, but they require deep conceptual understanding. Memorization alone will not be enough to succeed.
+
+--- Review 4 ---
+The lecture style is not very interactive, but the material is consistent and structured. Students who follow along carefully can still do well.
+
+--- Review 5 ---
+Assignments reinforce theoretical concepts but can take a lot of time to fully understand. They are important for exam preparation.
+
+--- Review 6 ---
+Office hours are useful if you come prepared with specific questions. The professor is more helpful one on one than during lecture.
+
+--- Review 7 ---
+This is not a course for students looking for practical programming. It is heavily focused on mathematical foundations of computer science.
+
+--- Review 8 ---
+Students who fall behind early usually struggle to recover later in the semester. Consistency is very important for this class.
+
+--- Review 9 ---
+The workload is manageable if you stay disciplined and review regularly. However, it is not a class you can cram for.
+
+--- Review 10 ---
+Good course for students interested in theoretical CS, but it requires patience and strong problem solving skills.

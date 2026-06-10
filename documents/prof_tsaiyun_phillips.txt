@@ -1,0 +1,35 @@
+Professor: Tsaiyun Phillips
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 101, CS 111
+Source: RateMyProfessors.com
+
+--- Review 1 ---
+This is a very challenging course with fast paced lectures that can be difficult to follow. Prior preparation is often necessary.
+
+--- Review 2 ---
+Heavy self study is required to understand the material. Lecture alone is not sufficient for most students.
+
+--- Review 3 ---
+Exams are difficult and test deep conceptual understanding. They require more than memorization.
+
+--- Review 4 ---
+The course workload is high and not ideal for students looking for an easier class. Expect to invest significant time.
+
+--- Review 5 ---
+Material is dense and requires strong focus and discipline to keep up. Falling behind makes recovery difficult.
+
+--- Review 6 ---
+Lectures can be hard to follow without reviewing material beforehand. Preparation is very important.
+
+--- Review 7 ---
+Students often rely on outside resources to fully understand the topics. Independent learning is essential.
+
+--- Review 8 ---
+Grading is strict but consistent with expectations. You are evaluated heavily on understanding.
+
+--- Review 9 ---
+Better suited for advanced students who are comfortable with abstract concepts. Not beginner friendly.
+
+--- Review 10 ---
+Overall a demanding course that requires strong commitment and consistent effort throughout.

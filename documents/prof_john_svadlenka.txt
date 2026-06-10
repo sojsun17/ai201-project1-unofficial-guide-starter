@@ -1,0 +1,34 @@
+Professor: John Svadlenka
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 111, CS 112
+Source: RateMyProfessors.com
+--- Review 1 ---
+This course has a very heavy workload with frequent assignments and strict deadlines. Time management is essential to survive the semester.
+
+--- Review 2 ---
+Lectures are dense and move quickly, making it easy to fall behind if you miss even a few classes. Staying consistent is critical.
+
+--- Review 3 ---
+Exams are significantly more difficult than expected based on lecture material. You need extra preparation beyond class notes.
+
+--- Review 4 ---
+The course requires a lot of independent reading and self study. Lecture alone is not enough to succeed.
+
+--- Review 5 ---
+Students often feel overwhelmed due to the volume of work. The pace of the course is demanding.
+
+--- Review 6 ---
+Grading is strict and small mistakes can significantly impact your final grade. Attention to detail is important.
+
+--- Review 7 ---
+This is not a good choice for students looking for a lighter workload. It requires serious commitment.
+
+--- Review 8 ---
+Material is important but not always clearly explained in lecture. Outside study resources are often necessary.
+
+--- Review 9 ---
+The professor expects a high level of discipline and consistency from students. Falling behind is difficult to recover from.
+
+--- Review 10 ---
+Overall one of the more demanding professors, but manageable for strong and organized students.

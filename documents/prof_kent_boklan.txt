@@ -1,0 +1,34 @@
+Professor: Kent Boklan
+Department: Computer Science
+University: Queens College, CUNY
+Courses: CS 370, CS 781
+Source: RateMyProfessors.com
+--- Review 1 ---
+This is one of the most difficult theory courses in the department. Exams are extremely challenging and require deep understanding rather than memorization.
+
+--- Review 2 ---
+The workload is heavy and students need to consistently study throughout the semester. Falling behind even slightly makes the class very difficult.
+
+--- Review 3 ---
+Many students feel that the grading does not reflect the amount of effort they put in. Even strong students report struggling with exam difficulty.
+
+--- Review 4 ---
+The material is important for theoretical computer science but is presented in a very demanding way. You need strong mathematical maturity to keep up.
+
+--- Review 5 ---
+Lectures alone are not sufficient to succeed in this course. Independent study is essentially required.
+
+--- Review 6 ---
+Assignments and exams are significantly harder than most other CS classes. Time management becomes critical for survival in this course.
+
+--- Review 7 ---
+Office hours can help clarify concepts, but they do not fully bridge the difficulty gap. You must already be comfortable with proofs.
+
+--- Review 8 ---
+Some students recommend avoiding this professor unless the course is required. The stress level is consistently high.
+
+--- Review 9 ---
+The exams are long, tricky, and require creative problem solving. Expect to spend a lot of time preparing.
+
+--- Review 10 ---
+This course is best suited for students who are very confident in theoretical CS and abstract reasoning.
